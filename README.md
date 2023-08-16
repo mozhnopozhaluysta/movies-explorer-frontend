@@ -5,7 +5,6 @@
 ### Функционал:
 + Фронтенд часть проекта.
 
-
 ### Технологии:
 
 + HTML5
@@ -17,6 +16,10 @@
 ### ССылка на репозиторий
 
 - https://mozhnopozhaluysta.github.io/movies-explorer-frontend/
+
+### Ccылка на пулл реквест
+
+- https://github.com/mozhnopozhaluysta/movies-explorer-frontend/pull/1
 
 ### ССылка на макет работы в фигме:
 
