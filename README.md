@@ -15,7 +15,7 @@
 
 ### ССылка на репозиторий
 
-- 
+- https://mozhnopozhaluysta.github.io/movies-explorer-frontend/
 
 ### ССылка на макет работы в фигме:
 
